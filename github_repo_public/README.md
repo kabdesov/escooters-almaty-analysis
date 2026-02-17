@@ -1,5 +1,5 @@
-# E-Scooter Analysis (Public Repository)
-This code analyzes public discourse about e-scooters using NLP.
+# E-Scooter Analysis (Almaty)
+This code analyzes public discourse about e-scooters in Almaty using NLP.
 
 ## Privacy Note
 Raw data from Meta Content Library is **not included** to comply with privacy terms. 
